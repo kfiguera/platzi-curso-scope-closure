@@ -1,0 +1,19 @@
+{
+  "name": "platzi-curso-scope-closure",
+  "version": "1.0.0",
+  "description": "Repositorio del Curso de Closures y Scope en JavaScript de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfiguera/platzi-curso-scope-closure.git"
+  },
+  "author": "Kevin Figuera <kfiguera@smartwebtools.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kfiguera/platzi-curso-scope-closure/issues"
+  },
+  "homepage": "https://github.com/kfiguera/platzi-curso-scope-closure#readme"
+}
